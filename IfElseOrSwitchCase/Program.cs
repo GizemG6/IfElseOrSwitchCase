@@ -1,4 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
 Console.Write("Rüya Manavina Hos Geldiniz!\nElma = 2 TL\nArmut = 3 TL\nÇilek = 2 TL\nMuz = 3 TL\nDiger bütün meyveler = 4 TL" +
     "\nHangi meyveyi satin almak istersiniz? (Elma/Armut/Çilek/Diğer):");
 string meyve = Console.ReadLine().ToLower();
